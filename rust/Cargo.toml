@@ -9,4 +9,4 @@ edition = "2021"
 crate-type=["cdylib"]
 
 [dependencies]
-gdnative = "0.9.3"
+gdnative = "0.10.0"
